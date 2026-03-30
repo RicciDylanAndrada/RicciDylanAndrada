@@ -16,7 +16,7 @@
 
 ### 🔭 Current Projects
 
-- **[GrowWithGrove](https://github.com/GrowWithGrove)** — building tools to help communities grow
+- **[GrowWithGrove](https://staging.growwithgrove.co/)** — building tools to help communities grow
 
 ---
 
