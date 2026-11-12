@@ -16,7 +16,7 @@
 
 ### 🔭 Current Projects
 
-- **[GrowWithGrove](https://staging.growwithgrove.co/)** — building tools to help communities grow
+- **[Jot](https://jotdoc.ai/)** — Building a wellness platform to put your family’s health in your hands.
 
 ---
 
